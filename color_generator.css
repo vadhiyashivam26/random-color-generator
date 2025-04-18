@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.heading{
+    margin-top: 2rem;
+}
+.clrbtn{
+    margin-top: 5rem;
+    height: 2rem;
+    width: 10rem;
+    font-size: 1rem;
+}
+.clrchange{
+    height: 15rem;
+    width: 45rem;
+    border: 3px solid rgb(0, 0, 0);
+    margin-top: 2rem;
+}
+.clrchange p{
+    font-size: 1.54rem;
+    text-align: center;
+}
